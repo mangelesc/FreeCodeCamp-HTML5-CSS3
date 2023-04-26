@@ -189,6 +189,12 @@ It starts on a new line, and takes up the whole width */
     height: 550px;
 }
 
+/* display: inline-block;
+Displays an element as an inline-level block container. 
+The element itself is formatted as an inline element, 
+(Displays an element as an inline element. Any height and width properties will have no effect)
+but you can apply height and width values
+*/
 .triangle {
     width: 0;
     height: 0;
